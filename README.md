@@ -60,8 +60,8 @@ df.isnull().sum()
 ![image](https://user-images.githubusercontent.com/128348968/229422597-fc38f698-34fa-41e8-98ef-a26baf01bd44.png)
 # NON NULL AFTER
 # df.info()
-
+![image](https://user-images.githubusercontent.com/128348968/229424110-d8cf1679-81db-48d6-bfba-bbb7b54d9417.png)
 # df.isnull().sum()
-
-#Result
+![image](https://user-images.githubusercontent.com/128348968/229424186-0928ca44-77bb-4b45-b287-811c64181def.png)
+# Result
 Thus,the given data is read,cleansed and the cleaned data is saved into the file.
